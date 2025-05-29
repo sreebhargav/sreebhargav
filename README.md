@@ -1,35 +1,29 @@
-Hi there, I'm Sree Bhargav Balusu 👋
------------------------
+👋 Hi, I’m Sree Bhargav Balusu
+Cloud & DevOps Engineer | Full-Stack Developer | AWS Certified Solutions Architect
+M.S. in Computer Science – UMBC | Grading Assistant & Research Assistant
 
+🔧 Technical Summary
+Experienced in designing and deploying cloud-native applications, automating DevOps pipelines, and developing scalable full-stack systems. Strong foundation in backend development with Java and Spring Boot, combined with hands-on expertise in AWS, Docker, and Kubernetes.
 
-💻 Cloud & DevOps Engineer | Full-Stack Developer | AWS Certified Solutions Architect
+💼 Core Skills
+Languages: Java, Python, JavaScript
 
+Frameworks: Spring Boot, React, Node.js
 
-🎓 M.S. in Computer Science | Grading Assistant at UMBC | Research Assistant at UMBC
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
 
-🔹 About Me
-🎯 I’m currently working on cloud-native applications and full-stack projects
+Databases: PostgreSQL, MongoDB
 
-🌱 I’m currently learning Kubernetes, Terraform, and AWS Lambda
+🧠 Current Focus
+Deepening expertise in Kubernetes, Terraform, and AWS Lambda
 
-🤝 I’m looking to collaborate on DevOps and Full-Stack projects
+Contributing to cloud-based DevOps automation and infrastructure optimization projects
 
-💬 Ask me about Java, Spring Boot, AWS, Docker, Kubernetes, and CI/CD
+🤝 Collaboration Interests
+Open to roles and projects in Cloud Engineering, DevOps, or Full-Stack Development, especially those emphasizing scalability, automation, and impact.
 
-📫 How to reach me: sreebhargavbalusu@gmail.com
-
-⚡ Fun fact: I love playing badminton and cricket!
-
-🛠 Languages & Tools
-<p align="left">  <strong>Languages:</strong> Java, Python, JavaScript </p>
-  <p 🔧 <strong>Frameworks:</strong> Spring Boot, React, Node.js </p>
-<p  ☁️ <strong>Cloud & DevOps:</strong> AWS, Docker, Kubernetes, Terraform, CI/CD </p>
- <p 🗄 <strong>Databases:</strong> PostgreSQL, MongoDB </p>
-
-📫 Connect with Me
-<p align="left"> 🔗 **LinkedIn:** [Follow me](https://www.linkedin.com/in/sreebhargavbalusu/) 
-  
-
-Let's Build Something Amazing!
-Feel free to explore my repositories and reach out for collaborations, discussions, or opportunities!
+📬 Contact
+📧 sreebhargavbalusu@gmail.com
+🔗 LinkedIn Profile
+https://www.linkedin.com/in/sreebhargavbalusu/
 
