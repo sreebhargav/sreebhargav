@@ -22,8 +22,4 @@ Contributing to cloud-based DevOps automation and infrastructure optimization pr
 🤝 Collaboration Interests
 Open to roles and projects in Cloud Engineering, DevOps, or Full-Stack Development, especially those emphasizing scalability, automation, and impact.
 
-📬 Contact
-📧 sreebhargavbalusu@gmail.com
-🔗 LinkedIn Profile
-https://www.linkedin.com/in/sreebhargavbalusu/
 
