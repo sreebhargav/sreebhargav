@@ -1,5 +1,5 @@
 👋 Hi, I’m Sree Bhargav Balusu
-Cloud & DevOps Engineer | Full-Stack Developer | AWS Certified Solutions Architect
+Software Engineer | Full-Stack Developer | AWS Certified Solutions Architect
 M.S. in Computer Science – UMBC | Grading Assistant & Research Assistant
 
 🔧 Technical Summary
