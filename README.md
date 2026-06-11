@@ -6,6 +6,7 @@ M.S. in Computer Science – UMBC
 Experienced in designing and deploying cloud-native applications, automating DevOps pipelines, and developing scalable full-stack systems. Strong foundation in backend development with Java and Spring Boot, combined with hands-on expertise in AWS, Docker, and Kubernetes.
 
 💼 Core Skills
+
 Backend:  Java, Spring Boot, Node.js, Express.js, REST APIs, GraphQL, Hibernate, JPA
 
 Frontend:  React.js, TypeScript, JavaScript, HTML5, CSS3, Material UI
